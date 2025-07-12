@@ -1,4 +1,4 @@
-### Beamline Controls Core Development Team at Diamond Light Source
+### Hello👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelldls&layout=compact&theme=vision-friendly-dark&hide=ReScript,TeX,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
